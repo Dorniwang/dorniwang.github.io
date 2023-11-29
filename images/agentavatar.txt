@@ -1,0 +1,7 @@
+
+@inproceedings{wang2023agentavatar,
+    title={Disentangling Planning, Driving and Rendering for Photorealistic Avatar Agents},
+    author={Wang, Duomin and Dai, Bin and Deng, Yu and Wang, Baoyuan},
+    journal={arxiv},
+    year={2023}
+}
