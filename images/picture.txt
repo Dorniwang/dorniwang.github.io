@@ -1,0 +1,6 @@
+@article{ning2023picture,
+  title     = {PICTURE: PhotorealistIC virtual Try-on from UnconstRained dEsigns},
+  author    = {Ning, Shuliang and Wang, Duomin and Qin, Yipeng and Jin, Zirong and Wang, Baoyuan and Han, Xiaoguang},
+  journal   = {arXiv:2312.04534},
+  year      = {2023},
+}
